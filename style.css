@@ -103,9 +103,7 @@ body {
     height: 60px;
 }
 
-.features__info {
-    flex: 1;
-}
+
 
 .features__subtitle {
     font-size: 18px;
